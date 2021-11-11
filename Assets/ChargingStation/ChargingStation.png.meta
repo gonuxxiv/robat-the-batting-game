@@ -1,0 +1,632 @@
+fileFormatVersion: 2
+guid: c54a6f05f4f9544c3a2a710212b83217
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2723316641108561929
+    second: ChargingStation_0
+  - first:
+      213: -3210491617817595641
+    second: ChargingStation_1
+  - first:
+      213: 2665211736955879075
+    second: ChargingStation_2
+  - first:
+      213: 4160065876293347986
+    second: ChargingStation_3
+  - first:
+      213: 6104211932132222371
+    second: ChargingStation_4
+  - first:
+      213: 4469977594861112683
+    second: ChargingStation_5
+  - first:
+      213: 5616530047960468691
+    second: ChargingStation_6
+  - first:
+      213: 805380796413000129
+    second: ChargingStation_7
+  - first:
+      213: -679680224437406908
+    second: ChargingStation_8
+  - first:
+      213: -2482681945666660798
+    second: ChargingStation_9
+  - first:
+      213: -5785217728110923717
+    second: ChargingStation_10
+  - first:
+      213: -5053276240829803516
+    second: ChargingStation_11
+  - first:
+      213: 3641629820255207063
+    second: ChargingStation_12
+  - first:
+      213: -3296910937490347064
+    second: ChargingStation_13
+  - first:
+      213: -744826111218639885
+    second: ChargingStation_14
+  - first:
+      213: 846432129078322171
+    second: ChargingStation_15
+  - first:
+      213: 8529353662183255410
+    second: ChargingStation_16
+  - first:
+      213: 1723352489463628413
+    second: ChargingStation_17
+  - first:
+      213: 8373464824258628689
+    second: ChargingStation_18
+  - first:
+      213: 362939415583584877
+    second: ChargingStation_19
+  - first:
+      213: 6374158032569520489
+    second: ChargingStation_20
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ChargingStation_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 10346
+        width: 1575
+        height: 5172
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9009f2c6e0a2bc520800000000000000
+      internalID: 2723316641108561929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChargingStation_1
+      rect:
+        serializedVersion: 2
+        x: 1575
+        y: 10346
+        width: 1575
+        height: 5172
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 701fc9d22ea0273d0800000000000000
+      internalID: -3210491617817595641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChargingStation_2
+      rect:
+        serializedVersion: 2
+        x: 3150
+        y: 10346
+        width: 1575
+        height: 5172
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3aef47034fbbcf420800000000000000
+      internalID: 2665211736955879075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChargingStation_3
+      rect:
+        serializedVersion: 2
+        x: 4725
+        y: 10346
+        width: 1575
+        height: 5172
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29a60be9fd58bb930800000000000000
+      internalID: 4160065876293347986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChargingStation_4
+      rect:
+        serializedVersion: 2
+        x: 6300
+        y: 10346
+        width: 1575
+        height: 5172
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a52178296486b450800000000000000
+      internalID: 6104211932132222371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChargingStation_5
+      rect:
+        serializedVersion: 2
+        x: 7875
+        y: 10346
+        width: 1575
+        height: 5172
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6dc6a780fc880e30800000000000000
+      internalID: 4469977594861112683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChargingStation_6
+      rect:
+        serializedVersion: 2
+        x: 9450
+        y: 10346
+        width: 1575
+        height: 5172
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dccdfa225ce1fd40800000000000000
+      internalID: 5616530047960468691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChargingStation_7
+      rect:
+        serializedVersion: 2
+        x: 11025
+        y: 10346
+        width: 1575
+        height: 5172
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c93e1731994d2b00800000000000000
+      internalID: 805380796413000129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChargingStation_8
+      rect:
+        serializedVersion: 2
+        x: 12600
+        y: 10346
+        width: 1575
+        height: 5172
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 443fc8ddf6a4196f0800000000000000
+      internalID: -679680224437406908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChargingStation_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5174
+        width: 1575
+        height: 5172
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 246534a9cedbb8dd0800000000000000
+      internalID: -2482681945666660798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChargingStation_10
+      rect:
+        serializedVersion: 2
+        x: 3150
+        y: 5174
+        width: 1575
+        height: 5172
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b30f7afa027c6bfa0800000000000000
+      internalID: -5785217728110923717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChargingStation_11
+      rect:
+        serializedVersion: 2
+        x: 6300
+        y: 5174
+        width: 1575
+        height: 5172
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4041b6948082fd9b0800000000000000
+      internalID: -5053276240829803516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChargingStation_12
+      rect:
+        serializedVersion: 2
+        x: 9450
+        y: 5174
+        width: 1575
+        height: 5172
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79ef7cff60ba98230800000000000000
+      internalID: 3641629820255207063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChargingStation_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2
+        width: 1575
+        height: 5172
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cba9ca58f40f32d0800000000000000
+      internalID: -3296910937490347064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChargingStation_14
+      rect:
+        serializedVersion: 2
+        x: 1575
+        y: 2
+        width: 1575
+        height: 5172
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fb906d1998d9a5f0800000000000000
+      internalID: -744826111218639885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChargingStation_15
+      rect:
+        serializedVersion: 2
+        x: 3150
+        y: 2
+        width: 1575
+        height: 5172
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf3e03c69812fbb00800000000000000
+      internalID: 846432129078322171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChargingStation_16
+      rect:
+        serializedVersion: 2
+        x: 4725
+        y: 2
+        width: 1575
+        height: 5172
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27d2c1e17f95e5670800000000000000
+      internalID: 8529353662183255410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChargingStation_17
+      rect:
+        serializedVersion: 2
+        x: 6244
+        y: 0
+        width: 1575
+        height: 5172
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d72c34d55f39ae710800000000000000
+      internalID: 1723352489463628413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChargingStation_18
+      rect:
+        serializedVersion: 2
+        x: 7875
+        y: 2
+        width: 1575
+        height: 5172
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15c0a25a4e5843470800000000000000
+      internalID: 8373464824258628689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChargingStation_19
+      rect:
+        serializedVersion: 2
+        x: 9394
+        y: 0
+        width: 1575
+        height: 5172
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d62f8dcb97b690500800000000000000
+      internalID: 362939415583584877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChargingStation_20
+      rect:
+        serializedVersion: 2
+        x: 12600
+        y: 2
+        width: 1575
+        height: 5172
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 961528975fe857850800000000000000
+      internalID: 6374158032569520489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
